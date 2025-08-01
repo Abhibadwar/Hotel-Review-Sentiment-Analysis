@@ -65,9 +65,7 @@ This project performs sentiment analysis on hotel reviews to determine whether a
 
 | Model               | Accuracy |
 | ------------------- | -------- |
+| Random Forest       | 80.0%    |
+| AdaBoost Classifier | 85.0%    |
 
-| Random Forest       | 80%    |
-| AdaBoost Classifier     | 85%    |
-
----
 
